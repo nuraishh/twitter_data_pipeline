@@ -1,0 +1,4 @@
+sqlalchemy
+pandas
+pymongo==4.0.2
+psycopg2-binary
